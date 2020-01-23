@@ -6,13 +6,15 @@ body{
 
 body img{
 
-	margin-top: 60px;
+	margin-left: 10px;
+	margin-top: 70px;
 }
 
 
 .shadow{
 	position: relative;
 	margin: 200px auto 0;
+	margin-left : 10px;
 	width: 355px;
 	height: 200px;
     background: linear-gradient(0deg,#000,#262626);
